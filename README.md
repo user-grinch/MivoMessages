@@ -33,7 +33,7 @@ An SMS &amp; MMS messaging app for Android, built with Jetpack Compose.
 </p>
 
 > [!NOTE]
-> Stable releases are on **[Google Play](https://play.google.com/store/apps/details?id=com.grinch.mivo)**. Beta APKs built from the latest code are posted under **[GitHub Releases](https://github.com/user-grinch/MivoMessages/releases)**. Feedback and bug reports are welcome on **[Discord](https://discord.gg/NtEvU3726e)**.
+> Mivo is currently in **Google Play testing**. To install from **[Google Play](https://play.google.com/store/apps/details?id=com.grinch.mivo)**, join the **[Google Group](https://groups.google.com/g/rivophoneapp)** first (see [Joining Google Play Internal Testing](#joining-google-play-internal-testing) below). Beta APKs built from the latest code are posted under **[GitHub Releases](https://github.com/user-grinch/MivoMessages/releases)**. Feedback and bug reports are welcome on **[Discord](https://discord.gg/NtEvU3726e)**.
 
 </div>
 
@@ -66,9 +66,17 @@ An SMS &amp; MMS messaging app for Android, built with Jetpack Compose.
 
 ## Downloads
 
-- **Stable**: [Google Play](https://play.google.com/store/apps/details?id=com.grinch.mivo)
+- **Google Play (Testing)**: [Google Play](https://play.google.com/store/apps/details?id=com.grinch.mivo) *(join the [Google Group](https://groups.google.com/g/rivophoneapp) first)*
 - **Beta**: [Mivo.apk](https://github.com/user-grinch/MivoMessages/releases/download/beta/Mivo.apk) ([all releases](https://github.com/user-grinch/MivoMessages/releases))
 - **Discord**: [Join the server](https://discord.gg/NtEvU3726e)
+
+### Joining Google Play Internal Testing
+
+To access Mivo on Google Play during testing:
+
+1. Join the [Google Group](https://groups.google.com/g/rivophoneapp) using the same Google account you use on the Google Play Store.
+2. Open the [Google Play opt-in page](https://play.google.com/apps/testing/com.grinch.mivo) and select **Become a tester**.
+3. Download and install Mivo from [Google Play](https://play.google.com/store/apps/details?id=com.grinch.mivo).
 
 ## License
 
