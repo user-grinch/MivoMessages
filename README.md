@@ -15,11 +15,7 @@ An SMS &amp; MMS messaging app for Android, built with Jetpack Compose.
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.grinch.mivo">
-    <img src="images/play.png" alt="Get Stable on Google Play" height="42">
-  </a>
-  &nbsp;
-  <a href="https://github.com/user-grinch/MivoMessages/releases/tag/beta">
-    <img src="images/github.png" alt="Get Beta on GitHub" height="42">
+    <img src="images/play.png" alt="Get Mivo on Google Play" height="42">
   </a>
   &nbsp;
   <a href="https://discord.gg/NtEvU3726e">
@@ -32,8 +28,8 @@ An SMS &amp; MMS messaging app for Android, built with Jetpack Compose.
   <br>
 </p>
 
-> [!NOTE]
-> Mivo is currently in **Google Play testing**. To install from **[Google Play](https://play.google.com/store/apps/details?id=com.grinch.mivo)**, join the **[Google Group](https://groups.google.com/g/rivophoneapp)** first (see [Joining Google Play Internal Testing](#joining-google-play-internal-testing) below). Beta APKs built from the latest code are posted under **[GitHub Releases](https://github.com/user-grinch/MivoMessages/releases)**. Feedback and bug reports are welcome on **[Discord](https://discord.gg/NtEvU3726e)**.
+> [!IMPORTANT]
+> **Updates are currently only available on Google Play (Testing) for now.** GitHub Releases are paused temporarily. To download Mivo and receive the latest updates from **[Google Play](https://play.google.com/store/apps/details?id=com.grinch.mivo)**, join the **[Google Group](https://groups.google.com/g/rivophoneapp)** first and follow the [steps to join Google Play Testing](#joining-google-play-testing) below. Feedback and bug reports are welcome on **[Discord](https://discord.gg/NtEvU3726e)**.
 
 </div>
 
@@ -43,11 +39,11 @@ An SMS &amp; MMS messaging app for Android, built with Jetpack Compose.
 
 - **Category Filters**: Filter your inbox by All, Unread, Personal, Transactions, OTP, and Blocked.
 - **Quick Action Pills**: Copy OTP codes, mark as read, reply, call, move to private storage, block, or delete directly from the message list. You can pick which buttons appear for each category.
-- **Expandable Actions & Multi-Select**: Tap a thread for quick actions, or long-press to select multiple threads at once.
-- **SMS & MMS**: Dual SIM support, MMS attachments, and automatic read-only handling for alphanumeric service senders.
+- **Expandable Actions & Multi-Select**: Tap a thread for quick actions, or long-press to select multiple threads at once to pin, archive, mark read, mute, or delete.
+- **SMS & MMS**: Dual SIM support, MMS attachments, voice notes, scheduled messages, quick replies, starred messages, delivery reports, undo send, and automatic read-only handling for alphanumeric service senders.
 - **Private Storage & App Lock**: Hide conversations or lock the app behind biometrics or device PIN.
-- **Themes & Layout**: Material You colors, custom color picker, AMOLED dark mode, Liquid Glass style, 5 app icons, 23 avatar shapes, card roundness, fonts, and swipe actions.
-- **Local Backup**: Export and restore your settings and blocklist as a local JSON file.
+- **Themes & Layout**: Material You colors, custom color picker, AMOLED dark mode, Liquid Glass style, 5 app icons, 23 avatar shapes, chat bubbles, card roundness, fonts, and swipe actions.
+- **Encrypted Local Backup**: Export and restore your messages, settings, and blocklist as an encrypted local backup file.
 
 ## Screenshots
 
@@ -66,17 +62,19 @@ An SMS &amp; MMS messaging app for Android, built with Jetpack Compose.
 
 ## Downloads
 
-- **Google Play (Testing)**: [Google Play](https://play.google.com/store/apps/details?id=com.grinch.mivo) *(join the [Google Group](https://groups.google.com/g/rivophoneapp) first)*
-- **Beta**: [Mivo.apk](https://github.com/user-grinch/MivoMessages/releases/download/beta/Mivo.apk) ([all releases](https://github.com/user-grinch/MivoMessages/releases))
+> [!NOTE]
+> New Mivo updates are currently available **only on Google Play** while testing is underway. Automated GitHub APK releases are temporarily paused.
+
+- **Google Play (Testing — Only active update channel for now)**: [Google Play](https://play.google.com/store/apps/details?id=com.grinch.mivo) *(join the [Google Group](https://groups.google.com/g/rivophoneapp) first)*
 - **Discord**: [Join the server](https://discord.gg/NtEvU3726e)
 
-### Joining Google Play Internal Testing
+### Joining Google Play Testing
 
-To access Mivo on Google Play during testing:
+Follow these steps to install Mivo and receive updates on Google Play:
 
-1. Join the [Google Group](https://groups.google.com/g/rivophoneapp) using the same Google account you use on the Google Play Store.
-2. Open the [Google Play opt-in page](https://play.google.com/apps/testing/com.grinch.mivo) and select **Become a tester**.
-3. Download and install Mivo from [Google Play](https://play.google.com/store/apps/details?id=com.grinch.mivo).
+1. **Join the Google Group**: Open the [Google Group](https://groups.google.com/g/rivophoneapp) and click **Join group** using the same Google account you use on the Google Play Store.
+2. **Opt in as a tester**: Open the [Google Play opt-in page](https://play.google.com/apps/testing/com.grinch.mivo) and select **Become a tester**.
+3. **Install from Google Play**: Download Mivo from [Google Play](https://play.google.com/store/apps/details?id=com.grinch.mivo) — all future updates will arrive automatically through the Play Store.
 
 ## License
 
